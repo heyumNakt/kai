@@ -8,5 +8,5 @@ public class example {
     @Autowired
     HistoryPlugin dao;
 
-	var testa = "test";
+	var testa = "testaaaaaaaa";
 }
